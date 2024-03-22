@@ -16,9 +16,11 @@ Assign the value in temporary variable to the first variable
 ### Step 5: 
 Print both the values it would be interchanged
 ### Step 6: 
+
 End the program
 ## PROGRAM:
 
+ ![Screenshot 2024-03-22 183053](https://github.com/GSanthosh007/Swapping-two-values/assets/147527586/0c6083b2-a261-4394-8982-52cb3d7518c8)
 
 
 ## RESULT:
