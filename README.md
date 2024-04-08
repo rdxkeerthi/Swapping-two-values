@@ -20,14 +20,15 @@ End the program
 ## PROGRAM:
 ```
 #Program to swap two values.
-#Developed by: KATHIR ANAND.S
-#RegisterNumber:23013711
-a=str(input())
-b=str(input())
-temp=a
-a=b
-b=temp
-print("Swapped values are:",a,b)
+#Developed by: KEERTHIVASAN M
+#RegisterNumber:212223100021
+number1 =int(input())
+number2 = int(input())
+temp = number1
+number1 = number2
+number2 = temp
+print("Swapped values are: {} {}".format(number1,number2))
+
 ```
 
 
